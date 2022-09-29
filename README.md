@@ -2,7 +2,7 @@
 - 👀 I’m interested in travelling and food
 - 🌱 I’m currently learning ArgoCD
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...psubramanian@incomm.com or premchandransparkle@gmail.com
 
 <!---
 psubramanian-incomm/psubramanian-incomm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
